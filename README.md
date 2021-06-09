@@ -11,4 +11,12 @@ The algorithms are **tested** on
 - synthetic data ([synthetic_testing.ipynb](synthetic_testing.ipynb))
 - covid data ([covid.ipynb](covid.ipynb))
 
+## Install Dependencies
+
+The Python packages can be installed with the following command:
+```
+pip3 install -r requirements.txt
+```
+
+
 ### References
